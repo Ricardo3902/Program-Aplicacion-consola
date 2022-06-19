@@ -1,0 +1,7 @@
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe.config
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\bin\Debug\Aplicacion de consola.pdb
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.AssemblyReference.cache
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\obj\Debug\Aplicacion de consola.exe
+C:\Users\RICARDO\source\repos\Aplicacion de consola\Aplicacion de consola\obj\Debug\Aplicacion de consola.pdb
